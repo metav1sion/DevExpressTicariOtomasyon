@@ -1,0 +1,13 @@
+Hocam öncelikle merhaba,
+Projenin girişine koyduğum Dbo.TicariOtomasyon.bak ile veritabanımı kendi serverınıza kurabilirsiniz sonra ise "sqlbaglantisi.cs" için açtığım class'a server name ve database name bilgilerinizi girerek projeyi çalıştırabilirsiniz.
+
+Uygulamayı açtığınızda sizden kullanıcı adı ve şifre isteyecek
+kullanıcı adı: admin
+şifre: 0
+
+bu bilgileri kullanıp bağlantı sağlayabilirsiniz hocam.
+
+Raporum da ekte bulunmaktadır.
+
+Saygılarımla,
+Metehan Sözen
